@@ -6,6 +6,9 @@ I will be doing commits at least at every video and will include my notes at the
  
 Lesson 1 
 --------
+* download the first lesson from: https://goo.gle/learn-angular-step-1 , open the package.json file and find versions of the angular and node version which is located at the "dependencies" section. File link might be old therefore install the appropriate version.
 * install vscode
 * install node.js
 * install angular
+* run the npm install -g @angular/cli and npm install commands for installing all requeired npm packages.
+* finally run ng serve command to to start the application locally
