@@ -28,3 +28,7 @@ Notes
 * a component has  html template, typescript class and styles.
 * styles are default stored at a separate file. Html template can be stored in a separate file as well but for this course it will be stored in the same file.
 * following command creates a new  component named Home and  it is a standalone component which means it is a new type of Angular component that does not need to be declared in a NgModule `ng generate component Home --standalone --inline-template` --inline-template means the html template will be inside the component itself not a separate file. That command creates 3 files.
+* To create an interface run following command `ng generate interface ihousingLocation`. That command creates ihousing-location.ts file.
+* To create an empty project use the following command `ng new homes-app2` homes-app2 will be root directory.
+* There is a shortcut to create service file as following `ng g s housing` is same as `ng generate service housing` this command creates a service type class under the app folder.
+* housing.ts is an injectable type of class which means that other parts of the project can request an instance of this service. 
