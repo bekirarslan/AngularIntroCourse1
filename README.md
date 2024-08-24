@@ -10,5 +10,6 @@ Lesson 1
 * install vscode
 * install node.js
 * install angular
-* run the npm install -g @angular/cli and npm install commands for installing all requeired npm packages.
-* finally run ng serve command to to start the application locally
+* run the `npm install -g @angular/cli` and npm install commands for installing all requeired npm packages.
+* intall the dependencies `npm install` 
+* finally `ng serve` command to to start the application locally
